@@ -8,11 +8,18 @@ Extraire les vols en jets privés dans FlightRadar24, les dénombrer et les visu
 
 2. Calculer l'ensemble des émissions de CO2 de ces vols. Calculer les émissions par passager 
 
-3. Visualiser les différentes liaisons les plus utilisées par les jets privés
+3. Utiliser le package _leaflet_ pour visualiser les différentes liaisons les plus utilisées par les jets privés
+
+   - Se faire un compte sur _Stadia Maps_ pour bénéficier des fonds de carte
+
+   - Afficher la carte dans RStudio
 
 ## Remarques
 
 Pour rappel, un FR moyen consomme 7tCO2/an
 
 cf. https://www.flightradar24.com/
+
+Voir test de _leaflet_ [ici](https://github.com/ThomLecha/TestDeDataVisualisation)
+
 
