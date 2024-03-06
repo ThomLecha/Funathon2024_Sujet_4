@@ -1,4 +1,4 @@
-# Funathon 2024 - Sujet 4
+# Funathon 2024 - Sujet 4 :star:
 
 Extraire les vols en jets privés dans FlightRadar24, les dénombrer et les visualiser sur une carte mondiale.
 
