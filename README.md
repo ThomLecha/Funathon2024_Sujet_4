@@ -14,7 +14,7 @@ Extraire les vols en jets privés dans FlightRadar24, les dénombrer et les visu
 
    - Afficher la carte dans RStudio
 
-## Remarques 
+## Remarques
 
 Pour rappel, un FR moyen consomme 7tCO2/an
 
